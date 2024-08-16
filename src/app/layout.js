@@ -1,6 +1,6 @@
 import { Inter , Outfit} from "next/font/google";
 import "./globals.css";
-
+console.log("commiting new changes");
 const inter = Outfit({ subsets: ["latin"] });
 
 export const metadata = {
